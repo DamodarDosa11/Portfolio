@@ -15,8 +15,8 @@ Hi, I'm **Dosa Damodara Sai**, a Full Stack Developer with a strong interest in 
 * JavaScript (ES6+)
 * React.js
 * Tailwind CSS
-* GSAP
-* Three.js
+<!-- * GSAP
+* Three.js -->
 
 ### Backend
 
